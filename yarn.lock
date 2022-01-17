@@ -8236,6 +8236,11 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
+vue-cal@^3.10.1:
+  version "3.10.1"
+  resolved "https://registry.yarnpkg.com/vue-cal/-/vue-cal-3.10.1.tgz#a29853afec221c58dea22ac3f6cf674ce19043ca"
+  integrity sha512-nAfAA0wrxXB0c/7BU9Kluq5h5r1bTh7XfAUTDDgPPNcwhZDt5Fz9WPho72TlOhBxZRdaTWYvU+HeP2AJw9zJ4A==
+
 vue-cli-plugin-vuetify@~2.4.5:
   version "2.4.5"
   resolved "https://registry.yarnpkg.com/vue-cli-plugin-vuetify/-/vue-cli-plugin-vuetify-2.4.5.tgz#5dfae4d78c717c400530731f0b75c0350c3b6add"
